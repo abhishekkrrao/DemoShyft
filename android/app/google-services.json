@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "565981288643",
+    "project_id": "joolkart-buyer",
+    "storage_bucket": "joolkart-buyer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565981288643:android:6cd04f68785f8112f02a76",
+        "android_client_info": {
+          "package_name": "com.joolkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565981288643-25b81a41157at26spu18eut2rn1mkvb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joolkart",
+            "certificate_hash": "07c57f02f54ca47814acc1b85f8d105c2c256cf1"
+          }
+        },
+        {
+          "client_id": "565981288643-dce2hbiq061vfklhdqoiqvlo07q36sko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joolkart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565981288643-rr2ebubv0fshvjtq97cpr6na0pg6sdfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQJjVc2IZlde1cLLkBkGSFeAnRR1_kok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565981288643-rr2ebubv0fshvjtq97cpr6na0pg6sdfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565981288643-7ga4vgnh79drtp83mtepujshut5ogbqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joolkart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565981288643:android:3d5aef0cce5646fff02a76",
+        "android_client_info": {
+          "package_name": "com.joolkartseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565981288643-rr2ebubv0fshvjtq97cpr6na0pg6sdfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQJjVc2IZlde1cLLkBkGSFeAnRR1_kok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565981288643-rr2ebubv0fshvjtq97cpr6na0pg6sdfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565981288643-7ga4vgnh79drtp83mtepujshut5ogbqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joolkart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
